@@ -218,7 +218,7 @@ De middelste rij krijgt alle overgebleven ruimte.
 
 ## Oefening 8 - The Nature company
 
-Bekijk eerst het [eindresultaat](https://web-development-i.github.io/07EX-CSSGrid/oefening08-nature-company/) van deze oefening. Verbreed en versmal het browservenster en controleer dat het eindresultaat goed 'responsive' is voor tablets en laptops.
+Bekijk eerst het [eindresultaat](https://web-development-i.github.io/07SOL-LayoutCSSGrid/oefening08-nature-company/) van deze oefening. Verbreed en versmal het browservenster en controleer dat het eindresultaat goed 'responsive' is voor tablets en laptops.
 
 Open daarna de startmap **oefening08-nature-company** in Visual Studio Code en voer onderstaande opdrachten uit op de startbestanden:
 
