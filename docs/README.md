@@ -220,7 +220,7 @@ De middelste rij krijgt alle overgebleven ruimte.
 
 Bekijk eerst het [eindresultaat](https://web-development-i.github.io/07EX-CSSGrid/oefening08-nature-company/) van deze oefening. Verbreed en versmal het browservenster en controleer dat het eindresultaat goed 'responsive' is voor tablets en laptops.
 
-Open daarna de startmap **oefening08-nature-company** in Visual Studio Code en voor onderstaande opdrachten uit op de startbestanden:
+Open daarna de startmap **oefening08-nature-company** in Visual Studio Code en voer onderstaande opdrachten uit op de startbestanden:
 
 - Stel de font-family voor de webpagina in op `Arial, Helvetica, sans-serif;`
 - Geef de div.container wat `padding: 24px  24px 30px 56px;` 
