@@ -85,7 +85,7 @@ Open de startmap **oefening04-learn-css-grid-template-areas**.
 
 Voeg CSS-code toe:  
 - om alle letters horizontaal en verticaal te centreren in hun vierkant; 
-- en om onderstaande la-yout te maken. Maak hierbij gebruik van de `grid-template-areas`-property. Het is hier dus de bedoeling om deze keer geen lijnnummers te gebruiken.
+- en om onderstaande lay-out te maken. Maak hierbij gebruik van de `grid-template-areas`-property. Het is hier dus de bedoeling om deze keer geen lijnnummers te gebruiken.
 
 Te bekomen eindresultaat:
 
