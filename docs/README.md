@@ -199,7 +199,7 @@ Open de startmap **oefening07-gamepage** en bekijk hieronder de eerste schermafb
 
 Voer de volgende aanpassingen uit:
 
-1. Voeg onder het `h1`element in het **Board**-item een `p`element toe met daarin 120 'lorem ipsum'-woorden. Je kan hiervoor gebruikmaken van emmet: `p>lorem120`
+1. Voeg onder het `h2`element in het **Board**-item een `p`element toe met daarin 120 'lorem ipsum'-woorden. Je kan hiervoor gebruikmaken van emmet: `p>lorem120`
 2. Creëer een grid bestaande uit twee kolommen en drie rijen.
    - De eerste kolom is voor de 'Game Title', de 'Stats' en de 'Score'. 
 Deze kolom moet de breedte krijgen van de inhoud (content). Je stelt deze dus in op 'auto'.
